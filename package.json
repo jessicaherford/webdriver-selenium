@@ -1,0 +1,23 @@
+{
+  "name": "webdriver-selenium",
+  "version": "1.0.0",
+  "description": "Playing around with Selenium",
+  "main": "testfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicaherford/webdriver-selenium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicaherford/webdriver-selenium/issues"
+  },
+  "homepage": "https://github.com/jessicaherford/webdriver-selenium#readme",
+  "dependencies": {
+    "chromedriver": "^2.21.2",
+    "selenium-webdriver": "^2.53.2"
+  }
+}
